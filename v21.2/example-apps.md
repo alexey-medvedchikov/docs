@@ -66,30 +66,6 @@ Note that tools with [**community-level** support](community-tooling.html) have 
 |-----------------------------------------------------------+----------------+--------------------------------------------------------|
 | [Npgsql](https://www.npgsql.org/)                        | Beta           | [Simple CRUD](build-a-csharp-app-with-cockroachdb.html)
 
-## C++
-
-| Driver/ORM Framework                          | Support level  | Example apps                                            |
-|-----------------------------------------------+----------------+--------------------------------------------------------|
-| [libpqxx](https://github.com/jtv/libpqxx)     | Beta           | [Simple CRUD](build-a-c++-app-with-cockroachdb.html)
-
-## Clojure
-
-| Driver/ORM Framework                                      | Support level  | Example apps                                            |
-|-----------------------------------------------------------+----------------+--------------------------------------------------------|
-| [java.jdbc](https://github.com/clojure/java.jdbc)         | Community      | [Simple CRUD](build-a-clojure-app-with-cockroachdb.html)
-
-## PHP
-
-| Driver/ORM Framework                                      | Support level  | Example apps                                            |
-|-----------------------------------------------------------+----------------+--------------------------------------------------------|
-| [php-pgsql](https://www.php.net/manual/en/book.pgsql.php) | Community      | [Simple CRUD](build-a-php-app-with-cockroachdb.html)
-
-## Rust
-
-| Driver/ORM Framework                           | Support level  | Example apps                                            |
-|------------------------------------------------+----------------+--------------------------------------------------------|
-| [postgres](https://crates.io/crates/postgres/) | Community      | [Simple CRUD](build-a-rust-app-with-cockroachdb.html)
-
 ## See also
 
 Reference information:
